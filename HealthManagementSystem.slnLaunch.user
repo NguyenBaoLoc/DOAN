@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UserService_API\\UserService_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CommunityService_API\\CommunityService_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "NotificationService_API\\NotificationService_API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
